@@ -1,0 +1,4 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPSNMLOJNHLFFBC08DC,中正段一小段,24.88,都市：商
+RPVNMLPJNHLFFCC48CC,工建段,27.58,都市：住
+RPPNMLOKNHLFFCC97DC,武嶺段,32.05,都市：住

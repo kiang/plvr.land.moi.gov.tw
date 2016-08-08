@@ -1,0 +1,5 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPVNMLMJNHLFFHN17CC,東榮段,80.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPVNMLMJNHLFFHN17CC,東榮段,80.00,非都市：特定農業區 ; 非都市編定：甲種建築用地
+RPQNMLMKNHLFFBN78CC,仁和段,90.00,都市：住
+RPPNMLNKNHLFFHN76CC,湖東段,147.00,都市：住

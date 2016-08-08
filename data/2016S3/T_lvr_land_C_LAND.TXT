@@ -1,0 +1,4 @@
+編號,土地區段位置,土地移轉面積平方公尺,使用分區或編定
+RPPNMLRJNHLFFAT96CC,街頭段一小段,71.00,都市：商
+RPWNMLLKNHLFFAT27DC,勝興段,22.00,都市：住
+RPXNMLLKNHLFFAT37DC,勝興段,22.00,都市：住

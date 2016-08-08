@@ -1,0 +1,3 @@
+編號,車位類別,車位價格,車位面積平方公尺
+RPOOMLLKNHLFFHR96CC,坡道平面,0,30.70
+RPROMLNKNHLFFHR47CC,坡道平面,0,49.89
